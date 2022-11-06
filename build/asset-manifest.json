@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Collaborator-database/build/static/css/main.85768c17.css",
+    "main.js": "/Collaborator-database/build/static/js/main.61c30897.js",
+    "static/js/787.fa22f6ef.chunk.js": "/Collaborator-database/build/static/js/787.fa22f6ef.chunk.js",
+    "index.html": "/Collaborator-database/build/index.html",
+    "main.85768c17.css.map": "/Collaborator-database/build/static/css/main.85768c17.css.map",
+    "main.61c30897.js.map": "/Collaborator-database/build/static/js/main.61c30897.js.map",
+    "787.fa22f6ef.chunk.js.map": "/Collaborator-database/build/static/js/787.fa22f6ef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85768c17.css",
+    "static/js/main.61c30897.js"
+  ]
+}
